@@ -1,6 +1,6 @@
-# Author:Anthony Pacheco 
-# My first Python lab in my CIS129 course
-# This program should prints a simple short story about Anthony Pacheco.
+# Author: Anthony Pacheco 
+# My first Python lab in CIS129 course
+# This program should prints a simple short story from Anthony Pacheco.
 
 
 print('This is my first project in python.')
